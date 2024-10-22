@@ -1,0 +1,191 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "c6b29187-ec38-4d46-843a-fd661d8c6519",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "543e9773-336f-4f11-9b1d-83cb1531b1a1",
+   "metadata": {},
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0ff4150e-61cf-4200-83fc-de8cf90049a6",
+   "metadata": {},
+   "source": [
+    "##### Objectives"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7d92d607-ec66-4a80-b24e-dc31dd0cd1e6",
+   "metadata": {},
+   "source": [
+    "- List of popular languages in data science\n",
+    "- Commonly used libraries used by data scientist\n",
+    "- Three development environment open-source tools\n",
+    "- Create a markdown cell introducing arithmetic expression\n",
+    "- Create a code cell to multiply and add numbers"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e55d5053-ca9a-42a1-b534-86a61fac8e98",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9f5e6fec-972a-4419-b73a-cf379cfa9e63",
+   "metadata": {},
+   "source": [
+    "1. Python\n",
+    "2. Javascript\n",
+    "3. C++\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4b9081a2-ebca-4a2a-ba3c-6738d5827e4f",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4a802ec2-089e-4d0c-b703-16e8e74fe71e",
+   "metadata": {},
+   "source": [
+    "1. Apache Spark\n",
+    "2. Panda\n",
+    "3. Tensorflow "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ac8dda41-adfd-4488-ac0d-a9d3ae4a97f2",
+   "metadata": {},
+   "source": [
+    "|Data Science Tools|\n",
+    "|------------------|\n",
+    "|Visual studio code|\n",
+    "|MySQL             |\n",
+    "|Kubernetes        |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b181ae3b-1d77-4278-8ec2-55edb327e74d",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5a835265-db61-4edb-8357-e0a730fa30fa",
+   "metadata": {},
+   "source": [
+    " This a simple arithmetic expression to mutiply then add integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "66e6872c-03b2-4d41-8a34-1400ae9e89cf",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7c022469-184e-416f-a552-cafbced8ed80",
+   "metadata": {},
+   "source": [
+    "This will convert 200 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "id": "4fa5b8c6-3cc7-4ad8-8631-f6b864ea2fa1",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 49,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200 /60  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "69377d57-b1fa-475f-b7d3-82b6cccccfb2",
+   "metadata": {},
+   "source": [
+    "## Author "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6b4e7156-45fb-4501-8966-16ecd5a7fe7d",
+   "metadata": {},
+   "source": [
+    "Juan Pineda "
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-2022.05-py39",
+   "language": "python",
+   "name": "conda-env-anaconda-2022.05-py39-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
